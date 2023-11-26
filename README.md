@@ -1,4 +1,4 @@
-# STA303_Assignment$\del{3}$2_CLIP
+# STA303_Assignment ~~3~~ 2_CLIP
 
 Model used: https://huggingface.co/laion/mscoco_finetuned_CoCa-ViT-L-14-laion2B-s13B-b90k/tree/main
 
